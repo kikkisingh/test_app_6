@@ -1,3 +1,3 @@
 # README
 
-Practice Ruby on rails course from udemy
+first test repo on complete Ruby on rails course from udemy
